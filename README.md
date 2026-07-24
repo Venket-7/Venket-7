@@ -1,7 +1,5 @@
 <div align="center">
 
-<br><br>
-
 # VENKET RAMANA R S
 
 ### Data Analyst | Python | SQL | Excel | Power BI | Machine Learning | Robotics
