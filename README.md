@@ -1,25 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Venket%20Ramana%20R%20S&fontSize=42&fontColor=39FF14&fontAlignY=38&desc=%3E%20whoami%20%3A%20Aspiring%20Data%20Analyst%20%26%20Robotics%20Engineer&descAlignY=62&descSize=16&descColor=00F5FF&animation=fadeIn" width="100%"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/💻-VENKET%20RAMANA%20R%20S-0d1117?style=for-the-badge&labelColor=39FF14"/>
+# VENKET RAMANA R S
 
 ### Data Analyst | Python | SQL | Excel | Power BI | Machine Learning | Robotics
 
-
 <p>
   <a href="https://www.linkedin.com/in/venketramanars07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:venketofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/Venket-7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-</div>
 
 <br>
 
@@ -27,11 +26,15 @@
 
 **Venket Ramana R S** — an aspiring Data Analyst passionate about transforming data into actionable insights.
 
-- 🎓 Pursuing a Bachelor's degree in **Robotics Engineering**
-- 📊 Skilled in **Python, SQL, Excel, Power BI, Pandas, NumPy**, and data visualization
-- 📈 Interested in data analytics, business intelligence, dashboard development, and machine learning
-- 🚀 Currently building real-world analytics projects to strengthen my technical and problem-solving skills
-- 🎯 My goal is to build a career as a Data Analyst, helping organizations make smarter, data-driven decisions
+🎓 Pursuing a Bachelor's degree in **Robotics and Automation**
+
+📊 Skilled in **Python, SQL, Excel, Power BI, Pandas, NumPy**, and data visualization
+
+📈 Interested in data analytics, business intelligence, dashboard development, and machine learning
+
+🚀 Currently building real-world analytics projects to strengthen my technical and problem-solving skills
+
+🎯 My goal is to build a career as a Data Analyst, helping organizations make smarter, data-driven decisions
 
 <br>
 
@@ -85,8 +88,8 @@
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.E. Robotics and Automation | Sri Ramakrishna Engineering College | 2023 – 2027 | CGPA 8.98 |
-| Higher Secondary Education (Class XII) | Amrita Vidyalayam | 2023 | — |
+| B.E. Robotics and Automation | Sri Ramakrishna Engineering College | 2023 – 2027 | CGPA 9.07 |
+| Higher Secondary Education (Class XII) | Amrita Vidyalayam | 2023 | 85.2% |
 
 </div>
 
@@ -142,25 +145,14 @@
 ![](https://streak-stats.demolab.com/?user=venket-7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=venket-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Venket-7&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues" width="100%"/>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=Venket-7&theme=tokyonight&hide_border=true" width="100%"/>
 
 <img src="https://ghchart.rshah.org/39d353/Venket-7" width="100%"/>
 
-<img src="./github-stats-snapshot.png" width="100%"/>
-
-<br>
-
-## 💭 Quote
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Your%20Mindset%20is%20Your%20Only-0d1117?style=for-the-badge"/><img src="https://img.shields.io/badge/LIMIT-FF0000?style=for-the-badge&logoColor=black"/>
-
-</div>
-
-<br>
 
 
-</div>
+
+
+
+
+
+
