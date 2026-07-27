@@ -121,34 +121,6 @@
 
 ---
 
-## 🚀 Featured Projects
-<div align="center">
-
-
-
-| Project | Stack | Highlights |
-|---|---|---|
-| 🏠 [**Bangalore House Price Prediction**](https://github.com/Venket-7/Bangalore-House-Price-Prediction) | Python, Pandas, Scikit-learn | Built a house price prediction model using data cleaning, feature engineering, outlier removal, and Random Forest Regression (**R² ≈ 0.81**). |
-| 🏥 [**Medical Treatment Cost Analysis & Prediction**](https://github.com/Venket-7/Medical-treatment-analysis) | Python, Pandas, Scikit-learn | Developed regression models to predict medical treatment costs and analyzed healthcare data for actionable insights. |
-| 🛒 [**Retail Sales Analysis & Customer Insights**](https://github.com/Venket-7/Retail-Sales-Analysis) | Python, Pandas, Matplotlib, Seaborn | Performed exploratory data analysis to identify customer purchasing patterns, sales trends, and business insights using interactive visualizations. |
-| 🚢 [**Titanic Survival Prediction**](https://github.com/Venket-7/Titanic-Survival-Prediction-SVM) | Python, Pandas, Scikit-learn | Built a machine learning classification model with feature engineering, preprocessing, and performance evaluation to predict passenger survival. |
-
-</div>
-
----
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=venket-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=venket-7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=venket-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<img src="https://ghchart.rshah.org/39d353/Venket-7" width="100%"/>
-
-
-
-
 
 
 
