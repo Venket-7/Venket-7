@@ -2,10 +2,16 @@
 
 <img src="Data%20Analytics%20Mindset%20Banner%20(1).png" alt="Data Analytics Mindset Banner" width="100%"/>
 
-# VENKET RAMANA R S
+</div>
+<br>
 
-### Data Analyst | Python | SQL | Excel | Power BI | Machine Learning | Robotics
+## 👋 About Me
+Data Analytics Professional and Microsoft Certified Fabric Analytics Engineer (DP-600) with a passion for turning raw data into clear, actionable business insights. With a strong foundation in SQL, Python, Excel and Power BI, plus an engineering background, I enjoy analyzing complex data, finding patterns, and helping teams make confident, data-driven decisions.
 
+Eager to contribute, continuously learn, and create measurable value through data-driven decision-making.
+<br>
+
+## 🌐 Socials
 <p>
   <a href="https://www.linkedin.com/in/venketramanars07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,14 +25,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-</div>
-<br>
-
-## 👋 About Me
-Data Analytics Professional and Microsoft Certified Fabric Analytics Engineer (DP-600) with a passion for turning raw data into clear, actionable business insights. With a strong foundation in SQL, Python, Excel and Power BI, plus an engineering background, I enjoy analyzing complex data, finding patterns, and helping teams make confident, data-driven decisions.
-
-Eager to contribute, continuously learn, and create measurable value through data-driven decision-making.
-<br>
 
 ## 💻 Tech Stack
 
